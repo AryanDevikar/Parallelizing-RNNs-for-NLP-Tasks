@@ -1,9 +1,3 @@
-# Parallel Recurrent Architectures for Scalable NLP Tasks
-
-**Course:** 16:954:577:01 Statistical Software Final Project
-**Team 1:** Aryan Nitin Devikar (ad2069), Chaitanya Deogaonkar (cmd517), Sahil Parab (sp2627)
-
----
 
 ## Overview
 
